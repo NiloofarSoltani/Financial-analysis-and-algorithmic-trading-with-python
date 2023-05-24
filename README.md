@@ -1,4 +1,5 @@
 <h1 align="left">Niloofar Soltani - Financial Analysis Portfolio </h1>
+<p align="left"> <img src="https://i.ytimg.com/vi/SEQbb8w7VTw/maxresdefault.jpg" /> </p>
 <h3 align="left">index</h3>
 
 <p align="left">This repository holds all the steps for using python to perform detailed financial analysis and follow algorithmic trades.</p>
