@@ -1,3 +1,4 @@
+
 import math
 
 # EXERCISE 1
