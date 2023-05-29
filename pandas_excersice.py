@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+import pandas_excersice as pd
 
 labels = ['a', 'b', 'c']
 my_list = [1, 2, 3]
