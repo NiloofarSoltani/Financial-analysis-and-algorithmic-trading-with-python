@@ -9,5 +9,7 @@ dic = {'a': 10, 'b': 20, 'c': 30}
 print('Creating a Series Using Lists')
 pd.Series(data=my_list, index=labels)
 
+
 #### each file in our projects name module
 #### from import pandas as pd error it means that importing have problem not installing
+
