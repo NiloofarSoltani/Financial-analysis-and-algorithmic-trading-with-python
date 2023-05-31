@@ -67,7 +67,16 @@
 ### Pandas Exersice
 </details>
 
-4- Useing **Matplotlib** to create custom plots.
+
+<details>
+  <summary>4-Visualization</summary>
+## [Useing _Matplotlib_ to create custom plots](https://github.com/NiloofarSoltani/Financial-analysis-and-algorithmic-trading-with-python/blob/master/visualization_exercise.ipynb)
+### Matplotlib
+### Pandas Visualization
+### Pandas Time Series Visualization
+### Matplot Exercises
+### Pandas Visualization Exercises
+
 
 5- Useing how to use statistical models to **analyze time series**.
 
