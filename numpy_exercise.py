@@ -109,5 +109,5 @@ print('Get the sum of all the columns in mat')
 # print(mat.sum())
 # print('sum of the first row: ',mat.sum(axis=1))
 # print('sum of the first column: ',mat.sum(axis=0))
-#
+
 
