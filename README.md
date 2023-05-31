@@ -39,6 +39,7 @@
 
 <details>
   <summary>3-Pandas</summary>
+  
 ## [Useing _Pandas_ to analyze and visualize data](https://github.com/NiloofarSoltani/Financial-analysis-and-algorithmic-trading-with-python/blob/master/pandas_exercise.ipynb)
 ### Pandas Creating a Series
  - list and lables
@@ -70,6 +71,7 @@
 
 <details>
   <summary>4-Visualization</summary>
+  
 ## [Useing _Matplotlib_ to create custom plots](https://github.com/NiloofarSoltani/Financial-analysis-and-algorithmic-trading-with-python/blob/master/visualization_exercise.ipynb)
 ### Matplotlib
 ### Pandas Visualization
@@ -78,6 +80,7 @@
 ### Pandas Visualization Exercises
 
 </details>
+
 5- Useing how to use statistical models to **analyze time series**.
 
 6- **Calculating financial statistics**, such as daily returns, cumulative returns, price volatility, etc
