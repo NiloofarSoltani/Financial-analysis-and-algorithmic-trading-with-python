@@ -4,7 +4,7 @@
 
 <p align="left">This repository holds all the steps for using python to perform detailed financial analysis and follow algorithmic trades.</p>
 
-1- [Basic Python Exercises](https://github.com/NiloofarSoltani/Financial-analysis-and-algorithmic-trading-with-python/blob/master/basic_python_exercise.py)
+# 1-[Basic Python Exercises](https://github.com/NiloofarSoltani/Financial-analysis-and-algorithmic-trading-with-python/blob/master/basic_python_exercise.py)
   - Calculating square root
   - Seperating different part of a string
   - Nested dictionary
@@ -12,9 +12,38 @@
   - Check if a certain word is in the sentence
   - Counting a specific word in the sentence
 
-2- Useing **NumPy** to quickly work with numerical data.
+# 2-Useing **NumPy** to quickly work with numerical data.
   
-3- Useing **Pandas** to analyze and visualize data.
+# 3-Useing **Pandas** to analyze and visualize data.
+## Creating a Series
+ - list and lables
+ - dictionary
+ - array
+## Creating DataFrames
+- Selecting columns and rows
+- Creating new columns
+- Deleting columns
+- Select one element of dataframe
+- Conitional selecting 
+- Indexing specification
+## Data Missing
+- Delet
+- Fill
+## Group By
+
+## Merging ,Joining ,Concatenating DataFrames 
+
+## Operations
+- amount of unique values
+- amount of each value
+- method
+- list of columns / rows
+- sorting
+- multi index out of dataframes
+
+## Data Input and Output
+
+## Exersice
 
 4- Useing **Matplotlib** to create custom plots.
 
