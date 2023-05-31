@@ -77,7 +77,7 @@
 ### Matplot Exercises
 ### Pandas Visualization Exercises
 
-
+</details>
 5- Useing how to use statistical models to **analyze time series**.
 
 6- **Calculating financial statistics**, such as daily returns, cumulative returns, price volatility, etc
