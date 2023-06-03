@@ -76,7 +76,6 @@
 ### Matplotlib
 ### Pandas Visualization
 ### Pandas Time Series Visualization
-### Matplot Exercises
 ### Pandas Visualization Exercises
 
 </details>
